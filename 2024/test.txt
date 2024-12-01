@@ -1,0 +1,4 @@
+Hello, this is test input!
+Oh....
+Look at this!
+It's a fourth line!
